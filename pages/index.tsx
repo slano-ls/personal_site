@@ -56,7 +56,7 @@ const Home = (): JSX.Element => (
         </Title>
         <Text textAlign="center">
           I&apos;m actively looking for job opportunities, and my inbox
-          is open. Even if you aren't a recruiter, feel free to ask me anything!
+          is open. Even if you aren&apos;t a recruiter, feel free to ask me anything!
         </Text>
         <Grid
           gridGap="2rem"
